@@ -1,9 +1,13 @@
-# Unity5ComputeShaderTest  
-Unity5.1 Beta 3でCompute Shaderの実装サンプルです。  
+# UnityComputeShaderTest  
 
+Compute Shaderの実装サンプルです。  
 テクスチャ画像にフィルタ処理をCompute Shaderでかけています。
   
-WindowsのDirect3D11とOpenGL ES 3.1のAndroidで動作確認しました。  
-  
-ライセンス  
+## License
 商用・非商用好きに使用してかまいません。
+
+## Tested Environment
+- Unity 2017.4.14f1
+- macOS High Sierra (Version 10.13.6)
+- iOS 12.1.4
+- XCode 10.1
